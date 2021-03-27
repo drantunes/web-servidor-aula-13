@@ -1,0 +1,20 @@
+{
+    "name": "drantunes/adnp08",
+    "description": "ADNP Aula 08",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Roberto Antunes",
+            "email": "drantunes@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["./"]
+    },
+    "require": {
+        "nesbot/carbon": "^2.38",
+        "pecee/simple-router": "4.2.0.6",
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
